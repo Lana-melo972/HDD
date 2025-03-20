@@ -239,38 +239,38 @@ Sistemas de virtualização: devido à sua capacidade de lidar com cargas de tra
 # __🔹 Curiosidades e Tendências Futuras__
 
 
-__Curiosidades SATA__
+### __Curiosidades SATA__
 
-Substituiu o PATA – O SATA substituiu o antigo PATA (Parallel ATA), que usava cabos largos e mais lentos.
+- Substituiu o PATA – O SATA substituiu o antigo PATA (Parallel ATA), que usava cabos largos e mais lentos.
 
-Velocidades Crescentes – As versões do SATA foram evoluindo:
+- Velocidades Crescentes – As versões do SATA foram evoluindo:
 
-SATA I (1,5 Gb/s)
+- SATA I (1,5 Gb/s)
 
-SATA II (3,0 Gb/s)
+- SATA II (3,0 Gb/s)
 
-SATA III (6,0 Gb/s)
+- SATA III (6,0 Gb/s)
 
 
-__SAS (Serial Attached SCSI)__
+### __SAS (Serial Attached SCSI)__
 
-Mais Rápido que SATA – O SAS pode atingir velocidades de 12 Gb/s ou mais, ideal para servidores e data centers.
+- Mais Rápido que SATA – O SAS pode atingir velocidades de 12 Gb/s ou mais, ideal para servidores e data centers.
 
-__Curiosidades HD__
+### __Curiosidades HD__
 
-O Primeiro HD Tinha 5MB – O IBM 305 RAMAC (1956) pesava mais de uma tonelada e tinha apenas 5 MB de capacidade.
+- O Primeiro HD Tinha 5MB – O IBM 305 RAMAC (1956) pesava mais de uma tonelada e tinha apenas 5 MB de capacidade.
 
-Partículas de Poeira Podem Danificar o HD – O espaço entre o cabeçote e os pratos do HD é menor que um fio de cabelo! Uma única partícula de poeira pode resultar em uma falha catastrófica do disco.
+- Partículas de Poeira Podem Danificar o HD – O espaço entre o cabeçote e os pratos do HD é menor que um fio de cabelo! Uma única partícula de poeira pode resultar em uma falha catastrófica do disco.
 
 
 
 ## Tendencias futuras
 
-O SATA tem sido amplamente utilizado em SSDs e HDDs de baixo custo, mas seu futuro é incerto devido ao avanço das interfaces mais rápidas, como o NVMe (PCIe), que já estão no mercado e oferecem desempenho muito superior. 
+- O SATA tem sido amplamente utilizado em SSDs e HDDs de baixo custo, mas seu futuro é incerto devido ao avanço das interfaces mais rápidas, como o NVMe (PCIe), que já estão no mercado e oferecem desempenho muito superior. 
 
-O SAS é amplamente utilizado em servidores e armazenamento empresarial, oferecendo maior confiabilidade e velocidade em comparação com o SATA. No entanto, com o avanço e o o crescimento do NVMe em infraestrutura corporativa, o SAS pode perder relevância nos próximos anos. 
+- O SAS é amplamente utilizado em servidores e armazenamento empresarial, oferecendo maior confiabilidade e velocidade em comparação com o SATA. No entanto, com o avanço e o o crescimento do NVMe em infraestrutura corporativa, o SAS pode perder relevância nos próximos anos. 
 
-Apesar da ascensão dos SSDs, os HDDs continuam sendo a principal opção para armazenamento de grande volume. A indústria está focada no aumento da capacidade, utilizando novas tecnologias para maximizar a densidade dos discos. Embora os HDDs não possam competir em velocidade com os SSDs, eles continuarão sendo essenciais para armazenamento em massa e backups.
+- Apesar da ascensão dos SSDs, os HDDs continuam sendo a principal opção para armazenamento de grande volume. A indústria está focada no aumento da capacidade, utilizando novas tecnologias para maximizar a densidade dos discos. Embora os HDDs não possam competir em velocidade com os SSDs, eles continuarão sendo essenciais para armazenamento em massa e backups.
 
 
 # __FONTES:__
