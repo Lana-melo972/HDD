@@ -1,4 +1,8 @@
-1. Conecte o hardware
+## __*Como configurar o Roteador Archer C7:*__
+
+
+
+### __*1. Conecte o hardware*__
 
 -Desligue o modem da operadora.
 
@@ -8,7 +12,8 @@
 
 -Ligue o modem e depois o roteador.
 
-__2. Acesse a interface de configuração__
+### __*2. Acesse a interface de configuração*__
+
 Abra um navegador e digite na barra de endereços:
 
 http://tplinkwifi.net
@@ -22,7 +27,8 @@ Usuário: admin
 Senha: admin
 (ou siga o assistente para definir uma nova senha, dependendo da versão do firmware)
 
-3. Configure a conexão com a internet
+### __*3. Configure a conexão com a internet*__
+
 O roteador detectará automaticamente o tipo de conexão. Se não detectar, você pode configurar manualmente:
 
 PPPoE (comum em Vivo, Oi, etc.):
@@ -37,7 +43,8 @@ IP Estático:
 
 Digite os dados fornecidos pela operadora (IP, máscara, gateway, DNS).
 
-4. Configure as redes Wi-Fi
+### __*4. Configure as redes Wi-Fi*__
+
 Você pode configurar duas redes:
 
 2.4 GHz (maior alcance, menor velocidade)
@@ -50,17 +57,20 @@ Nome da rede (SSID) para cada uma.
 
 Senha (use WPA2 para mais segurança).
 
-5. Finalize a configuração
+### __*5. Finalize a configuração*__
+
 Revise as configurações.
 
 Clique em Salvar / Concluir.
 
 O roteador vai reiniciar.
 
-6. Teste a conexão
+### __*6. Teste a conexão*__
+
 Após reiniciar, conecte seu computador ou celular via Wi-Fi ou cabo e veja se tem acesso à internet.
 
-7. (Opcional) Acesse configurações avançadas
+### __*7. (Opcional) Acesse configurações avançadas*__
+
 Você pode configurar:
 
 Controle dos pais
